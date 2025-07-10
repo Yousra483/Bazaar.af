@@ -1,0 +1,17 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    scroll-behavior: smooth;
+    background-color: #fdfcf9;
+
+}
+h2{
+    color: #8c2f2f;
+}
+.btn_light{
+    background-color: #fff;
+    color: #8c2f2f;
+    border: 2px solid #8c2f2f;
+}
+footer a :hover{
+    color: #ffcc66;
+}
